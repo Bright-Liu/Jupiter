@@ -1,1 +1,1 @@
-##迁移OpenTSDB数据到HAWQ
+# Python Study
